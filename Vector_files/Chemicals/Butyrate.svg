@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="41.175873mm"
+   height="15.346626mm"
+   viewBox="0 0 41.175873 15.346626"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-62.706254,-203.72918)">
+    <g
+       id="g31-6"
+       transform="matrix(0.16676723,0,0,0.16773408,-11.377658,141.43183)"
+       style="display:inline;stroke:#24365b;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:0.815686">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#24365b;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         d="m 689.80362,459.99998 -60.00001,-40 -60.00001,40 -60,-40 -31.89527,28.04483"
+         id="path28-4" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#24365b;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         d="m 505.99111,422.99999 -0.18751,-34"
+         id="path29-4-2" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#24365b;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         d="m 513.8036,422.99999 v -34"
+         id="path30-4" />
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;text-align:start;letter-spacing:0.449792px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#24365b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         x="501.14117"
+         y="387.77423"
+         id="text30-4"><tspan
+           id="tspan30-7"
+           style="font-weight:bold;fill:#24365b;fill-opacity:1;stroke:none;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+           x="501.14117"
+           y="387.77423">O</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;text-align:start;letter-spacing:0.449792px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#24365b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         x="442.20346"
+         y="462.17798"
+         id="text28-6-6"><tspan
+           id="tspan28-3-3"
+           style="font-weight:bold;font-size:22.5778px;fill:#24365b;fill-opacity:1;stroke:none;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+           x="442.20346"
+           y="462.17798">HO</tspan></text>
+    </g>
+  </g>
+</svg>
