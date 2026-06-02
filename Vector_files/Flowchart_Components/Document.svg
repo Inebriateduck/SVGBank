@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="130.42171mm"
+   height="58.991234mm"
+   viewBox="0 0 130.42171 58.991234"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="Stored_data.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="130.42171"
+       height="58.991234"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.27323,-117.00686)">
+    <g
+       id="g2"
+       inkscape:label="Document"
+       transform="matrix(2.25,0,0,2.25,13.14385,50.877455)">
+      <path
+         style="fill:#5879bc;fill-opacity:1;fill-rule:evenodd;stroke:#24365b;stroke-width:1.3;stroke-dasharray:none;stroke-opacity:1"
+         d="m 10.040839,40.008171 -2e-6,-9.967332 H 66.706036 V 49.9755 c 0,0 -7.922641,4.983666 -14.73295,4.983666 -6.81031,0 -18.122378,-4.983666 -24.932687,-4.983666 -6.81031,0 -16.99956,2.9902 -16.99956,2.9902 z"
+         id="path2"
+         sodipodi:nodetypes="ccccsscc" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87778px;line-height:1.25;text-align:start;letter-spacing:0.449792px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#90dcaf;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.368;stroke-opacity:1"
+         x="12.14381"
+         y="43.562096"
+         id="text4-2-9-9"><tspan
+           sodipodi:role="line"
+           id="tspan4-7-2-2"
+           style="font-size:9.87778px;fill:#90dcaf;fill-opacity:1;stroke:none;stroke-width:1.368"
+           x="12.14381"
+           y="43.562096">Document</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:9.87778px;fill:#90dcaf;fill-opacity:1;stroke:none;stroke-width:1.368"
+           x="12.14381"
+           y="55.909321"
+           id="tspan5-0-2" /></text>
+    </g>
+  </g>
+</svg>
