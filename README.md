@@ -2,4 +2,4 @@
 Open source repository of publication grade biomedical research related SVGs
 
 ## Current Catalogue 
-![Current Catalogue](All_SVGs.png)
+![Current Catalogue](All_SVGs.svg)
