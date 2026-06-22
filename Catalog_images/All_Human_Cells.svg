@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="2430.0596mm"
-   height="691.39319mm"
-   viewBox="0 0 2430.0595 691.39319"
+   width="2430.0593mm"
+   height="691.39307mm"
+   viewBox="0 0 2430.0593 691.39307"
    version="1.1"
    id="svg1"
    inkscape:export-filename="All_Human_Cells.svg"
@@ -34,16 +34,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
-    <inkscape:page
-       x="-1.5924828e-20"
-       y="0"
-       width="2430.0593"
-       height="691.39319"
-       id="page1"
-       margin="0"
-       bleed="0" />
-  </sodipodi:namedview>
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <inkscape:path-effect
@@ -756,7 +747,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(340.78333,-56.383819)">
+     transform="translate(340.78333,-56.38412)">
     <g
        id="g134-9"
        inkscape:label="Paneth Cell"
