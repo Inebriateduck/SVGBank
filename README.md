@@ -6,6 +6,10 @@ SVGBank is currently being expanded bi-weekly, and is open to external contribut
 ## Current Catalogue 
 _____________________________________________________________________________
 
+### Human Cells
+![Human Cells](Catalog_images/All_Human_Cells.svg)
+_____________________________________________________________________________
+
 ### Bacteria 
 ![Bacteria](Catalog_images/All_Bacteria.svg)
 _____________________________________________________________________________
@@ -16,10 +20,7 @@ _____________________________________________________________________________
 
 ### Nucleic Acids
 ![Nucleic Acids](Catalog_images/All_Nucleic_Acids.svg)
-_____________________________________________________________________________
 
-### Human Cells
-![Human Cells](Catalog_images/All_Human_Cells.svg)
 _____________________________________________________________________________
 
 ### Chemicals
