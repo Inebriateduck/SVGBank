@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="177.04874mm"
+   height="65.987724mm"
+   viewBox="0 0 177.04874 65.987724"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="Valterate.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="177.04874"
+       height="65.987724"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(22.75422,-120.12084)">
+    <g
+       id="g31-6-06"
+       inkscape:label="Beta Hydroxy Butyrate"
+       transform="matrix(0.71706859,0,0,0.72122587,-341.30149,-147.74632)"
+       style="display:inline;stroke:#24365b;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:0.815686">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#24365b;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         d="m 689.80362,459.99998 -60.00001,-40 -60.00001,40 -60,-40 -31.89527,28.04483"
+         id="path28-4-0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#24365b;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         d="m 505.99111,422.99999 -0.18751,-34"
+         id="path29-4-2-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#24365b;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         d="m 513.8036,422.99999 v -34"
+         id="path30-4-8"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;text-align:start;letter-spacing:0.449792px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#24365b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         x="501.14117"
+         y="387.77423"
+         id="text30-4-2"><tspan
+           sodipodi:role="line"
+           id="tspan30-7-6"
+           style="font-weight:bold;fill:#24365b;fill-opacity:1;stroke:none;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+           x="501.14117"
+           y="387.77423">O</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#24365b;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         d="m 626.14117,423.00625 -0.18751,-34"
+         id="path29-4-2-7-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#24365b;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         d="m 633.95366,423.00625 v -34"
+         id="path30-4-8-2"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;text-align:start;letter-spacing:0.449792px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#24365b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         x="621.29126"
+         y="387.78049"
+         id="text30-4-2-5"><tspan
+           sodipodi:role="line"
+           id="tspan30-7-6-2"
+           style="font-weight:bold;fill:#24365b;fill-opacity:1;stroke:none;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+           x="621.29126"
+           y="387.78049">O</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:22.5778px;text-align:start;letter-spacing:0.449792px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#24365b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+         x="442.20346"
+         y="462.17798"
+         id="text28-6-6-10"><tspan
+           sodipodi:role="line"
+           id="tspan28-3-3-05"
+           style="font-weight:bold;font-size:22.5778px;fill:#24365b;fill-opacity:1;stroke:none;stroke-width:4.82457;stroke-dasharray:none;stroke-opacity:1"
+           x="442.20346"
+           y="462.17798">HO</tspan></text>
+    </g>
+  </g>
+</svg>

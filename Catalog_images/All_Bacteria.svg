@@ -7,6 +7,8 @@
    viewBox="0 0 1123.8186 283.88202"
    version="1.1"
    id="svg1"
+   sodipodi:docname="All_Bacteria.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,7 +22,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm">
+     inkscape:document-units="mm"
+     inkscape:zoom="0.085152402"
+     inkscape:cx="1978.805"
+     inkscape:cy="-2225.4217"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
     <inkscape:page
        x="0"
        y="0"
@@ -1800,5 +1811,11 @@
            d="m 83.908423,191.74456 a 26.293612,27.830052 45.619128 0 1 -25.47363,-27.00365 26.293612,27.830052 45.619128 0 1 28.44153,-27.10821 26.293612,27.830052 45.619128 0 1 25.665147,26.8211 26.293612,27.830052 45.619128 0 1 -28.268717,27.28883" />
       </g>
     </g>
+    <path
+       id="path34-1-2"
+       style="fill:#38b26b;fill-opacity:1;fill-rule:evenodd;stroke:#24365b;stroke-width:1.91319;stroke-linejoin:bevel;stroke-dasharray:none"
+       d="m -118.80686,-2.509553 c 6.5236,-0.73462 13.9055,0.22171 22.009701,1.37126 8.1043,1.14950004 18.9202,5.73525 26.41,5.89434 7.489803,0.15909 11.421803,-0.9492 17.590403,-3.02316 4.7484,-1.59648996 10.1466,2.25678 11.3566,6.43642 1.2163,4.20106 -1.365,9.71059 -6.1934,11.56718 -6.245,2.40139 -9.5448,3.23731 -17.124,3.33065 -7.579103,0.0933 -19.507303,-3.38239 -27.641103,-4.67315 -8.133801,-1.29081 -14.751501,-3.16408 -21.171701,-2.85075 -6.4202,0.31325 -11.0735,3.31331 -16.2903,4.73339 -4.5252,1.23182 -9.6738,-2.43203 -11.0361,-6.47346 -1.3035,-3.867 0.8396,-8.13151 4.6553,-11.32273 3.8157,-3.19126996 10.9111,-4.25541 17.4346,-4.98999 z"
+       sodipodi:nodetypes="zzzsaszzzsazz"
+       inkscape:label="Campylobacter" />
   </g>
 </svg>
