@@ -6,8 +6,17 @@ SVGBank is currently being expanded bi-weekly, and is open to external contribut
 ## Current Catalogue 
 _____________________________________________________________________________
 
-### Human Cells
-![Human Cells](Catalog_images/All_Human_Cells.svg)
+### Gastrointestinal cells
+![Human Cells](Catalog_images/All_GI_Cells.svg)
+
+_____________________________________________________________________________
+
+### Blood & Immune Cells
+![Blood cells](Catalog_images/All_Blood_Cells.svg)
+_____________________________________________________________________________
+
+### Neurons & Associated Cells
+![Blood cells](Catalog_images/All_Nerve_Cells.svg)
 _____________________________________________________________________________
 
 ### Bacteria 
