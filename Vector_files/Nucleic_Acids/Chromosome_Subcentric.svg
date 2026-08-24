@@ -10,6 +10,8 @@
    inkscape:export-filename="Chromosome_Metacentric.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
+   sodipodi:docname="Chromosome_Subcentric.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,7 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm">
+     inkscape:document-units="mm"
+     inkscape:zoom="0.86720321"
+     inkscape:cx="-115.88979"
+     inkscape:cy="132.03364"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3-0">
     <inkscape:page
        x="0"
        y="0"
@@ -58,7 +69,7 @@
        inkscape:label="Chromosome_submetacentric"
        transform="translate(677.69928,-179.97499)">
       <path
-         style="fill:#90dcaf;fill-opacity:1;fill-rule:evenodd;stroke:#163d5c;stroke-width:1;stroke-linejoin:bevel"
+         style="fill:#5879bc;fill-opacity:1;fill-rule:evenodd;stroke:#163d5c;stroke-width:1;stroke-linejoin:bevel"
          d="m -567.54989,414.86874 c -3.33333,-9.16666 -9.39798,-27.5 -12.43031,-52.3993 -3.03232,-24.8993 -3.03232,-56.36395 -3.86565,-72.93024 -0.83333,-16.56628 -2.49997,-18.23292 -4.16665,-19.06627 -1.66669,-0.83335 -3.33332,-0.83335 -5,-0.83335 -1.66669,0 -3.33332,0 -5.00001,1.66667 -1.66668,1.66667 -3.33331,4.99993 -2.49999,27.39927 0.83331,22.39934 4.16665,63.86469 9.99998,88.76395 5.83332,24.89927 14.16655,33.2325 18.33327,37.51707 4.16673,4.28458 4.16673,4.52028 6e-5,8.80479 -4.16667,4.28452 -12.49983,12.61768 -18.33328,26.05198 -5.83345,13.4343 -9.16672,31.96866 -10.00003,42.90272 -0.83332,10.93406 0.83331,14.26732 2.49999,15.93399 1.66669,1.66667 3.33332,1.66667 5.00001,1.66667 1.66668,0 3.33331,0 5,-0.83335 1.66668,-0.83335 3.33332,-2.49999 4.16665,-7.60076 0.83333,-5.10078 0.83333,-13.63517 3.86571,-27.06946 3.03239,-13.43429 9.09691,-31.76726 12.43025,-40.93392 3.33333,-9.16667 3.93535,-9.16666 7.26868,0 3.33333,9.16666 9.39798,27.5 12.43031,40.93403 3.03232,13.43403 3.03232,21.96858 3.86565,27.06936 0.83333,5.10077 2.49997,6.76741 4.16666,7.60076 1.66668,0.83335 3.33331,0.83335 5,0.83335 1.66668,0 3.33331,0 5,-1.66667 1.66668,-1.66667 3.33331,-4.99993 2.49999,-15.93399 -0.83331,-10.93406 -4.16665,-29.46882 -9.99998,-42.90283 -5.83332,-13.43401 -14.16678,-21.76747 -18.33339,-26.05193 -4.16661,-4.28446 -4.16661,-4.52016 6e-5,-8.80469 4.16667,-4.28452 12.49983,-12.61768 18.33328,-37.51749 5.83345,-24.89981 9.16672,-66.36425 10.00003,-88.76359 0.83332,-22.39934 -0.83331,-25.7326 -2.49999,-27.39927 -1.66669,-1.66667 -3.33332,-1.66667 -5,-1.66667 -1.66669,0 -3.33332,0 -5,0.83335 -1.66669,0.83335 -3.33333,2.49998 -4.16666,19.06627 -0.83333,16.56629 -0.83333,48.03032 -3.86571,72.93011 -3.03239,24.89979 -9.09692,43.23277 -12.43025,52.39943 -3.33333,9.16666 -3.93535,9.16667 -7.26868,10e-6 z"
          id="path3-7-3-5"
          inkscape:path-effect="#path-effect3-3-2-7"
@@ -66,7 +77,7 @@
          transform="rotate(180,-563.91555,394.99314)"
          sodipodi:nodetypes="ccccsccccccccsccccccccsccccccccsccccc" />
       <circle
-         style="display:inline;fill:#5879bc;fill-opacity:1;fill-rule:evenodd;stroke:#163d5c;stroke-width:0.81;stroke-linejoin:bevel"
+         style="display:inline;fill:#90dcaf;fill-opacity:1;fill-rule:evenodd;stroke:#163d5c;stroke-width:0.81;stroke-linejoin:bevel;stroke-opacity:1"
          id="path2-0"
          cx="-563.46857"
          cy="360.18033"

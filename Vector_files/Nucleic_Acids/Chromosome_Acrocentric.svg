@@ -10,6 +10,8 @@
    inkscape:export-filename="Chromosome_Subcentric.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
+   sodipodi:docname="Chromosome_Acrocentric.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,7 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm">
+     inkscape:document-units="mm"
+     inkscape:zoom="0.2168008"
+     inkscape:cx="-823.33644"
+     inkscape:cy="-16.143852"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3-0-7">
     <inkscape:page
        x="0"
        y="0"
@@ -59,7 +70,7 @@
        transform="translate(680.60969,-179.7104)"
        style="display:inline">
       <path
-         style="fill:#90dcaf;fill-opacity:1;fill-rule:evenodd;stroke:#163d5c;stroke-width:1;stroke-linejoin:bevel"
+         style="fill:#5879bc;fill-opacity:1;fill-rule:evenodd;stroke:#163d5c;stroke-width:1;stroke-linejoin:bevel"
          d="m -567.54989,449.70555 c -3.33333,-16.13402 -9.39798,-48.40209 -12.43031,-80.26875 -3.03232,-31.86666 -3.03232,-63.33131 -3.86565,-79.8976 -0.83333,-16.56628 -2.49997,-18.23292 -4.16665,-19.06627 -1.66669,-0.83335 -3.33332,-0.83335 -5,-0.83335 -1.66669,0 -3.33332,0 -5.00001,1.66667 -1.66668,1.66667 -3.33331,4.99993 -2.49999,27.39927 0.83331,22.39934 4.16665,63.86469 9.99998,95.7313 5.83332,31.86662 14.16655,54.1344 18.33327,65.38644 4.16673,11.25203 4.16673,11.48772 6e-5,15.77224 -4.16667,4.28452 -12.49983,12.61768 -17.98049,19.08448 -5.48067,6.46679 -8.10834,11.06661 -8.94169,15.03336 -0.83335,3.96675 0.12774,7.30001 1.44164,8.96668 1.31391,1.66667 2.98054,1.66667 4.64723,1.66667 1.66668,0 3.33331,0 5.00424,-2.02418 1.67092,-2.02417 3.31076,-5.98711 7.18563,-13.30935 3.87487,-7.32223 9.9394,-17.89424 13.27274,-23.18035 3.33333,-5.28611 3.93535,-5.2861 7.26868,0 3.33333,5.28611 9.39798,15.85833 13.26499,23.16159 3.867,7.30326 5.52916,11.32013 7.19673,13.33621 1.66758,2.01609 3.33421,2.01609 5.0009,2.01609 1.66668,0 3.33331,0 4.64722,-1.66667 1.3139,-1.66667 2.27501,-5 1.44168,-8.96666 -0.83333,-3.96667 -3.46112,-8.56669 -8.94167,-15.03334 -5.48054,-6.46666 -13.814,-14.80013 -17.98061,-19.08458 -4.16661,-4.28446 -4.16661,-4.52017 6e-5,-15.77206 4.16667,-11.25189 12.49983,-33.51947 18.33328,-65.38679 5.83345,-31.86731 9.16672,-73.33175 10.00003,-95.73109 0.83332,-22.39934 -0.83331,-25.7326 -2.49999,-27.39927 -1.66669,-1.66667 -3.33332,-1.66667 -5,-1.66667 -1.66669,0 -3.33332,0 -5,0.83335 -1.66669,0.83335 -3.33333,2.49998 -4.16666,19.06627 -0.83333,16.56629 -0.83333,48.03032 -3.86571,79.89761 -3.03239,31.86729 -9.09691,64.1347 -12.43025,80.26873 -3.33333,16.13403 -3.93535,16.13404 -7.26868,2e-5 z"
          id="path3-7-3-5-7"
          inkscape:path-effect="#path-effect3-3-2-7-4"
@@ -67,7 +78,7 @@
          transform="rotate(180,-563.91555,394.99314)"
          sodipodi:nodetypes="ccccsccccccccsccccccsccccccccsccccc" />
       <circle
-         style="display:inline;fill:#5879bc;fill-opacity:1;fill-rule:evenodd;stroke:#163d5c;stroke-width:0.81;stroke-linejoin:bevel"
+         style="display:inline;fill:#90dcaf;fill-opacity:1;fill-rule:evenodd;stroke:#163d5c;stroke-width:0.81;stroke-linejoin:bevel;stroke-opacity:1"
          id="path2-0-5"
          cx="-563.46857"
          cy="319.43387"
