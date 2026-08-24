@@ -38,3 +38,7 @@ _____________________________________________________________________________
 
 ### Lab Equipment
 ![Lab Equipment](Catalog_images/All_Lab_Equip.svg)
+_____________________________________________________________________________
+
+### Metabolic Modelling
+![MM](Catalog_images/Metabolic_Modelling.svg)
