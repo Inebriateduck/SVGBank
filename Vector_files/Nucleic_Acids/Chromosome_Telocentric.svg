@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74.63829mm"
+   height="213.96786mm"
+   viewBox="0 0 74.63829 213.96786"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="Chromosome_Acrocentric.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="74.63829"
+       height="213.96786"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3-3-2-7-4-4"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-90.487496,-108.74376)">
+    <g
+       id="g3-0-7-5"
+       inkscape:label="Chromosome_telocentric"
+       transform="translate(691.72219,-198.13512)"
+       style="display:inline">
+      <path
+         style="fill:#90dcaf;fill-opacity:1;fill-rule:evenodd;stroke:#163d5c;stroke-width:1;stroke-linejoin:bevel"
+         d="m -567.54989,449.70555 c -3.33333,-16.13402 -9.39798,-48.40209 -12.43031,-80.26875 -3.03232,-31.86666 -3.03232,-63.33131 -3.86565,-79.8976 -0.83333,-16.56628 -2.49997,-18.23292 -4.16665,-19.06627 -1.66669,-0.83335 -3.33332,-0.83335 -5,-0.83335 -1.66669,0 -3.33332,0 -5.00001,1.66667 -1.66668,1.66667 -3.33331,4.99993 -2.49999,27.39927 0.83331,22.39934 4.16665,63.86469 9.99998,95.7313 5.83332,31.86662 14.16655,54.1344 18.33327,65.38644 4.16673,11.25203 4.16673,11.48772 5.5324,11.60557 1.36568,0.11785 4.097,0.11786 5.46264,10e-6 1.36563,-0.11785 1.36563,-0.35356 5.5323,-11.60545 4.16667,-11.25189 12.49983,-33.51947 18.33328,-65.38679 5.83345,-31.86731 9.16672,-73.33175 10.00003,-95.73109 0.83332,-22.39934 -0.83331,-25.7326 -2.49999,-27.39927 -1.66669,-1.66667 -3.33332,-1.66667 -5,-1.66667 -1.66669,0 -3.33332,0 -5,0.83335 -1.66669,0.83335 -3.33333,2.49998 -4.16666,19.06627 -0.83333,16.56629 -0.83333,48.03032 -3.86571,79.89761 -3.03239,31.86729 -9.09691,64.1347 -12.43025,80.26873 -3.33333,16.13403 -3.93535,16.13404 -7.26868,2e-5 z"
+         id="path3-7-3-5-7-1"
+         inkscape:path-effect="#path-effect3-3-2-7-4-4"
+         inkscape:original-d="m -564.81858,465.83957 c -6.06464,-32.26804 -12.12929,-64.53611 -18.19394,-96.80416 0,-31.46527 0,-62.92992 0,-94.39583 -1.66667,-1.66666 -3.3333,-3.3333 -5,-5 -1.66667,0 -3.3333,0 -5,0 -1.66667,0 -3.3333,0 -5,0 -1.66667,3.33334 -3.3333,6.6666 -5,10 3.33333,41.46528 6.66667,82.93063 10,124.39584 8.33332,22.26802 16.66655,44.5358 25,66.80417 0,0.2357 0,0.47139 0,0.70709 2.73135,0 5.46267,1e-5 8.19394,1e-5 0,-0.2357 0,-0.47141 0,-0.70711 8.33334,-22.26808 16.6665,-44.53566 25,-66.80417 3.3334,-41.46612 6.66667,-82.93056 10,-124.39584 -1.6667,-3.3334 -3.33333,-6.66666 -5,-10 -1.6667,0 -3.33333,0 -5,0 -1.6667,0 -3.33333,0 -5,0 -1.6667,1.6667 -3.33333,3.33334 -5,5 0,31.46591 0,62.92994 0,94.39583 -6.06477,32.26869 -12.12929,64.5361 -18.19394,96.80416 -0.60202,0 -1.20404,0 -1.80606,10e-6 z"
+         transform="rotate(180,-563.91555,394.99314)"
+         sodipodi:nodetypes="ccccsccccccccccsccccc" />
+      <circle
+         style="display:inline;fill:#5879bc;fill-opacity:1;fill-rule:evenodd;stroke:#163d5c;stroke-width:0.81;stroke-linejoin:bevel"
+         id="path2-0-5-0"
+         cx="-563.46857"
+         cy="319.43387"
+         r="12.15" />
+    </g>
+  </g>
+</svg>
